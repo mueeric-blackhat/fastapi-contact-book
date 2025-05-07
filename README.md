@@ -84,3 +84,8 @@ uvicorn main:app --reload
 
 5.Access the API documentation in your browser:
 http://127.0.0.1:8000/docs
+
+
+
+
+![Untitled (1)](https://github.com/user-attachments/assets/0e4c1488-21eb-4b41-870c-f665cd058244)
